@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d7dbab030e5418e46ba4c1193e64cf02
+  - enabled: 1
+    path: Assets/Scenes/controls.unity
+    guid: 570e0751bbe33894f85b4d822c9bf88e
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: f9456cc2c98a73c42a5eac97f881827b
+  - enabled: 1
+    path: Assets/Scenes/lore.unity
+    guid: 0af59d9eb33327947be4a0fec84863b8
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: 5ce973b585ffd9441a4852c404ff80de
+  - enabled: 1
+    path: Assets/Scenes/tutorialLore.unity
+    guid: 557965ded9e98174a8507d7c1dd2c912
+  - enabled: 1
+    path: Assets/Scenes/bosqueEncantado.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/bosqueEncantadoLore.unity
+    guid: b2023246cd19f24478c7f733dc94fc72
+  - enabled: 1
+    path: Assets/Scenes/netherLore.unity
+    guid: e544aaab6d46e1c468f1a57aa2f6686d
+  - enabled: 1
+    path: Assets/Scenes/nether.unity
+    guid: b49d38d1f73b30843a9590adaa1a4a86
+  - enabled: 1
+    path: Assets/Scenes/gameWon.unity
+    guid: ecd39352f21efe74ab12c75b25664edc
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: a760273ad9a6bfc4a93b72a75ba4c23d
+  - enabled: 1
+    path: Assets/Scenes/gameOverOver.unity
+    guid: c60b1a9bc83a7f54aac767074b7b4145
+  m_configObjects: {}
